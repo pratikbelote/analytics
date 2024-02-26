@@ -1,11 +1,11 @@
 [theme]
 primaryColor = "#f63366"
-backgroundColor = "#10344b"
-# backgroundColor = "#111111"
-secondaryBackgroundColor = "#154360"
-# secondaryBackgroundColor = "#393939"
-textColor = "#fafafa"
+backgroundColor = "#f0f0f0"  # Set to light grey for the background
+secondaryBackgroundColor = "#111111"  # Set to black for the text
+textColor = "#000000"  # Set to black for the text
 font = "sans serif"
+
 
 [server]
 enableStaticServing = true
+
